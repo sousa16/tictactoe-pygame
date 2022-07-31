@@ -3,6 +3,8 @@
 Tic Tac Toe game created using PyGame. 
 It can be played on 3 different difficulties and has a 2 Player Mode.
 
+!!! TO PLAY THE GAME, RUN jogodogalopygame.py !!!
+
 autopickplay.py is the script that picks the computer's chosen play.
 jogodogalopygame.py is the script where the GUI is created using PyGame.
 
